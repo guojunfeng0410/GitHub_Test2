@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     void A(){}
     void B(){}
+    void C(){}
 }
 
